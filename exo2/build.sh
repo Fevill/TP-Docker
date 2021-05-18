@@ -1,3 +1,3 @@
 #!/bin/bash
 echo "Build"
-sudo docker build . -t exo1:1.0
+sudo docker build . -t exo2:1.0
